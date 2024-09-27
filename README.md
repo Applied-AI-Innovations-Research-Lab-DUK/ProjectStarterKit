@@ -1,2 +1,3 @@
-# ProjectStarterKit
-ProjectStarterKit is a comprehensive template repository designed to jump start your machine learning (ML) and deep learning (DL) projects.
+# Sample_project
+
+Project description goes here.

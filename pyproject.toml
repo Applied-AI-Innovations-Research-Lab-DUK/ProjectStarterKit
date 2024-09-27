@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "sample_project"
+version = "0.1.0"
+description = "Description of your project"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
+psycopg2 = "*"
+
+[tool.poetry.dev-dependencies]
+pytest = "*"
+flake8 = "*"
+
+[build-system]
+requires = ["poetry>=1.0"]
+build-backend = "poetry.masonry.api"
