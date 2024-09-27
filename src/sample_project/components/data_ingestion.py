@@ -1,6 +1,3 @@
-def ingest_data(a,b):
-    c= a+b
-    print("Ingesting data...")
-    return c
+def ingest_data():
     # Placeholder for data ingestion logic
-    
+    print("Ingesting data...")

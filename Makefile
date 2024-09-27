@@ -18,6 +18,3 @@ compose-up:
 
 compose-down:
 	docker-compose down
-
-dev-run:
-	pytest tests/
